@@ -1,1 +1,1 @@
-# solo-giphy-text
+# giphy-api
