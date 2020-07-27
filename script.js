@@ -1,6 +1,6 @@
 let button = document.querySelector("#getData")
 let message = document.querySelector("#message")
-document.querySelector("#message").innerHTML = "A message to you rudy : "
+document.querySelector("#message").innerHTML = "A message to you Rudy : "
 
 let input = document.getElementById("input");
 input.addEventListener("keyup", function (event) {
